@@ -1,8 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   // Top-level configuration
-  "name": "web-app-template",
-  // Set this to today's date
-  "compatibility_date": "2026-10-31",
+  "name": "opq-pyramid",
+  "compatibility_date": "2026-11-10",
   "previews": {},
 }
